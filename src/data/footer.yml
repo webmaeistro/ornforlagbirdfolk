@@ -1,6 +1,6 @@
 enable_contact_section: true
-copyright: '&copy; Reflex. All rights reserved. Lorem ipsum dolor sit amet nullam.'
+copyright: '&copy; Ørn Forlag. All rights reserved. Demo for bjørn '
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: 'laged av Martin Andersen '
+    url: github.com/webmaeistro
