@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "2",
+      "title": "om oss",
+      "url": "om",
+      "weight": 1
+    }
+  ]
+}
