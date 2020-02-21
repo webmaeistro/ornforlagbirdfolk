@@ -75,7 +75,7 @@ sections:
     type: mission
 menus:
   main:
-    title: Home
+    title: Hjem
     weight: 1
 template: home
 ---
