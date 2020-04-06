@@ -7,13 +7,10 @@ social_content: >-
 social_links:
   - title: Twitter
     icon: fa-twitter
-    link_url: '#'
+    link_url: 'https://twitter.com/ornforlag'
   - title: Instagram
     icon: fa-instagram
-    link_url: '#'
-  - title: Snapchat
-    icon: fa-snapchat-ghost
-    link_url: '#'
-  - title: GitHub
-    icon: fa-github
-    link_url: '#'
+    link_url: 'https://instagram.com/ornforlag'
+  - title: Facebook
+    icon: fa-facebook
+    link_url: 'https://facebook.com/ornforlag'
