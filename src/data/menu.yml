@@ -1,9 +1,5 @@
 actions:
-  - label: Get Started
-    url: /generic
-    is_scrolly: false
-    is_primary: true
-  - label: Log In
-    url: /generic
+  - label: Admin
+    url: /admin
     is_scrolly: false
     is_primary: false
