@@ -1,16 +1,14 @@
 enabled: true
-title: Magna lorem ipsum
-social_content: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum
-  facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-  per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
+title: "Vi elsker nye venner! "
+social_content: Ta kontakt med oss på sosial media og hvis du liker oss så gi
+  oss en tommel opp! :)
 social_links:
   - title: Twitter
     icon: fa-twitter
-    link_url: 'https://twitter.com/ornforlag'
+    link_url: https://twitter.com/ornforlag
   - title: Instagram
     icon: fa-instagram
-    link_url: 'https://instagram.com/ornforlag'
+    link_url: https://instagram.com/ornforlag
   - title: Facebook
     icon: fa-facebook
-    link_url: 'https://facebook.com/ornforlag'
+    link_url: https://facebook.com/ornforlag
