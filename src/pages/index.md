@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hjem
 sections:
   - actions:
       - is_primary: false
@@ -7,11 +7,8 @@ sections:
         label: Get Started
         url: /generic
     component: Intro
-    content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
-    img_path: /images/day100-the-snail.png
+    content: intro section
+    img_path: /images/ornforlag-logo.jpg
     title: Ørn Forlag
     type: intro
   - actions:
@@ -20,13 +17,7 @@ sections:
         label: Details
         url: /generic
     component: Features
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
+    content: feture section
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
@@ -49,13 +40,7 @@ sections:
         label: Details
         url: /generic
     component: Spotlight
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
+    content: spotlight section
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
@@ -67,10 +52,7 @@ sections:
         label: Get Started
         url: /generic
     component: Mission
-    content: |-
-      Aptent taciti sociosqu litora torquent et conubia sed etiam.  
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam  
-      turpis mauris, ultricies erat malesuada quis.
+    content: call to action mission section
     title: Amet ullamcorper
     type: mission
 menus:
@@ -79,4 +61,3 @@ menus:
     weight: 1
 template: home
 ---
-
