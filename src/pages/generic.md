@@ -4,7 +4,7 @@ subtitle: Lorem ipsum dolor sit magna consectetur
 img_path: images/pic05.jpg
 menus:
   main:
-    title: Ipsum veroeros
+    title: Om oss
     weight: 2
 template: page
 ---
