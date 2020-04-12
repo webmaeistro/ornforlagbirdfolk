@@ -1,5 +1,5 @@
 ---
-title: Tempus Etiam
+title: Forfattere
 img_path: images/pic05.jpg
 menus:
   main:
