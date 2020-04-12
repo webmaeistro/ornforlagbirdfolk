@@ -1,5 +1,5 @@
 ---
-title: Ipsum Veroeros
+title: Om oss
 subtitle: Lorem ipsum dolor sit magna consectetur
 img_path: images/pic05.jpg
 menus:
