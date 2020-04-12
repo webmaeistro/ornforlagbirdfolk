@@ -1,5 +1,5 @@
 actions:
-  - label: Admin
+  - label: AdminMyAss!
     url: /admin
     is_scrolly: false
     is_primary: false
