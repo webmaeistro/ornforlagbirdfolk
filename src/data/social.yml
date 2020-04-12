@@ -1,7 +1,26 @@
 enabled: true
-title: "Vi elsker nye venner! "
-social_content: Ta kontakt med oss på sosial media og hvis du liker oss så gi
-  oss en tommel opp! :)
+title: Ta kontakt med oss
+social_content: >-
+  Ta kontakt med oss på sosial media eller bruk kontakt skjema her  og hvis du
+  liker oss så gi oss en tommel opp! :)
+
+
+  **Ørn Forlag**\
+
+  Veståsen 4\
+
+  1362 Hosle, Norway
+
+
+  **Tel.** (+47) 909 60 404
+
+
+  **Epost:** bjorn\[@]ornforlag.no
+
+
+
+
+  [ **Organisasjonsnr.**: 994304399 |  **Kontonr.:** 9235.27.10220 |
 social_links:
   - title: Twitter
     icon: fa-twitter
