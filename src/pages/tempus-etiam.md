@@ -3,7 +3,7 @@ title: Forfattere
 img_path: images/pic05.jpg
 menus:
   main:
-    title: Tempus etiam
+    title: Forfattere
     weight: 3
 template: page
 ---
