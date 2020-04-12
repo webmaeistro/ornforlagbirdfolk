@@ -5,7 +5,7 @@ sections:
     component: Intro
     content: intro section
     img_path: /images/ornforlag-logo.jpg
-    title: Ørn Forlag
+    title: Ørn Forlag - utgiver av bøker om norsk natur og kultur
     type: intro
   - actions: []
     component: Features
